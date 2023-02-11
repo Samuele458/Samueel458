@@ -8,7 +8,6 @@ I am a dedicated blockchain engineer, expert in Solidity and Ethereum. I have a 
 - 🤔 I’m always looking for new challenges and opportunities to improve my skills.
 - 💬 Ask me about blockchain, Solidity, and full-stack development!
 - 📫 You can reach me through the links at the top of my profile.
-- 😄 Pronouns: They/them
 - 💜 Interests: Technology, adventure sports, reading, and music.
 - ⚡ Fun fact: I'm a big fan of decentralized systems and believe in their potential to shape the future.
 

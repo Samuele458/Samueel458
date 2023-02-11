@@ -1,0 +1,11 @@
+{
+  "name": "Samuele458",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Samuele458/Samuele458.git",
+  "author": "Samuele Girgenti <samuele.girgenti458@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

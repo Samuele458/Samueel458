@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuele Girgenti</h1>
 
-I am a talented blockchain engineer with expertise in Solidity and Ethereum. I have a passion for creating full-stack applications using Node.js, React.js, and Solidity. Additionally, I am well-versed in AI and OpenAI, making me a versatile and dynamic technology professional.
+I am a blockchain engineer with expertise in Solidity and Ethereum. I have a passion for creating full-stack applications using Node.js, React.js, and Solidity. Additionally, I am well-versed in AI and OpenAI, making me a versatile and dynamic technology professional.
 
 - 🔭 I am always exploring new projects to advance my skills and knowledge.
 - 🌱 I am dedicated to continuous learning and improvement.
